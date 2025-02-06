@@ -1,0 +1,15 @@
+# Virtual environment directory
+.venv
+.env
+
+# Python bytecode cache directory
+__pycache__
+
+# WARNING: API keys should not be in .gitignore! 
+# This should be moved to a secure environment file (.env) that is already gitignored
+
+# Python file patterns:
+*.pyc   # Compiled Python files
+*.pyo   # Optimized Python files
+*.pyd   # Python DLL files
+*.pyw   # Python files for Windows
