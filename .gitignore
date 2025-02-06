@@ -13,3 +13,5 @@ __pycache__
 *.pyo   # Optimized Python files
 *.pyd   # Python DLL files
 *.pyw   # Python files for Windows
+
+chroma_db
